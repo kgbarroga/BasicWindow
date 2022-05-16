@@ -1,3 +1,4 @@
+package com.company;
 import javax.swing.*;
 import java.awt.*;
 import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
@@ -59,3 +60,4 @@ public class Window {
 
     }
 }
+
